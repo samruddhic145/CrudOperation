@@ -6,4 +6,9 @@ public class Calculator {
 		System.out.println(20+10);	
 		}
 
+	public void Substraction()
+	{
+		System.out.println(20-10);
+	}
+
 }
